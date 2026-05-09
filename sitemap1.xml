@@ -2,15 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://3tv.smotrim-lostfilm.ru/</loc>
+    <loc>https://tv-live-news.github.io/tv/</loc>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://3tv.smotrim-lostfilm.ru/3tv/Koloniia-2026-V8wr?.3tv</loc>
+    <loc>https://tv-live-news.github.io/tv/1/Koloniya-2026-Vr5Gkr.html</loc>
+    <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://3tv.smotrim-lostfilm.ru/3tv/Koloniia-2026-V4t8r?.3tv</loc>
+    <loc>https://tv-live-news.github.io/tv/1/Koloniya-2026-Vrt4D.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tv-live-news.github.io/tv/1/Koloniya-2026-Wh7bs.html</loc>
+    <priority>0.9</priority>
   </url>
 
 </urlset>
